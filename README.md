@@ -14,18 +14,14 @@ Passionate about Machine Learning, Data Engineering, Cloud Computing, and Open S
 <a href="YOUR_PORTFOLIO_LINK">Portfolio</a>
 </p>
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=AI+%26+Data+Engineer;Machine+Learning+Enthusiast;Building+Scalable+Data+Pipelines;Cloud+%7C+Python+%7C+SQL+%7C+Spark;Always+Learning+Something+New" />
-</p>
-
 ## 👩‍💻 About Me
 
-- 🎓 Final Year Engineering Student
-- 🤖 Interested in AI, Machine Learning, and Data Engineering
-- ☁️ Exploring Cloud, Big Data, and Distributed Systems
-- 🧠 Working on AI-powered applications and real-world data solutions
-- 🌱 Currently learning Spark, Kafka, MLOps, and LLMs
-- 💬 Ask me about Python, SQL, Machine Learning, Data Engineering, and Cloud
+- 🎓 Final Year Computer Science Engineering Student
+- 💡 Passionate about AI, Data Engineering, and Cloud Computing
+- 🚀 Building intelligent applications with Machine Learning and scalable data systems
+- 🌱 Currently exploring LLMs, Apache Spark, Kafka, and MLOps
+- 📚 Love solving real-world problems through technology
+- 🤝 Open to AI Engineer & Data Engineer opportunities
 
 ## 🚀 Currently Working On
 
@@ -35,19 +31,39 @@ Passionate about Machine Learning, Data Engineering, Cloud Computing, and Open S
 - 📊 AI-powered Job Recommendation Platform
 - 🤝 Open Source & Personal Branding
 
+## 📚 Research Interests
+
+- 🤖 Artificial Intelligence
+- 📊 Data Engineering
+- ☁️ Cloud Computing
+- 🧠 Deep Learning
+- 💬 Natural Language Processing
+- 📜 Computer Vision
+
 ## 🛠️ Tech Stack
 
-### Languages
-Python • SQL • JavaScript • HTML • CSS 
+### 💻 Languages
+<p >
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css"/>
+</p>
 
 ### AI & Machine Learning
-PyTorch • TensorFlow • Scikit-learn • OpenCV • Hugging Face
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
+</p>
+OpenCV • Scikit-learn • Hugging Face Transformers
 
-### Data Engineering
-Apache Spark • Kafka • Hadoop • Airflow • Pandas
+### 📊 Data Engineering
+Apache Spark • Apache Kafka • Hadoop • Apache Airflow • Pandas
 
-### Cloud & DevOps
-Docker • Git • Linux • OCI • AWS
+### ☁️ Cloud & DevOps
+<p>
+<img src="https://skillicons.dev/icons?i=docker,aws,linux,git,github"/>
+</p>
 
-### Databases
-MySQL • PostgreSQL • MongoDB
+### 🗄️ Databases
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb"/>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=footer"/>
