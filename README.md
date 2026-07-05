@@ -38,7 +38,7 @@ Passionate about Machine Learning, Data Engineering, Cloud Computing, and Open S
 ## 🛠️ Tech Stack
 
 ### Languages
-Python • SQL • Java • JavaScript • C++
+Python • SQL • JavaScript • HTML • CSS 
 
 ### AI & Machine Learning
 PyTorch • TensorFlow • Scikit-learn • OpenCV • Hugging Face
