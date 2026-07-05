@@ -1,7 +1,3 @@
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Hima%20Varshini&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Data%20Engineering%20%7C%20Cloud%20Systems&descAlignY=58&descSize=18" />
-</p>
-
 <h1 align="center">Hi 👋, I'm Hima Varshini</h1>
 
 <h3 align="center">
@@ -41,18 +37,6 @@ I enjoy turning research ideas into practical, production-ready solutions across
 - Machine learning workflows that move from notebooks to deployable products
 - Data-driven applications with clean architecture and practical impact
 - AI experiences that are understandable, efficient, and polished
-
-## 🧭 Workflow
-
-```mermaid
-flowchart LR
-	A[Raw Data] --> B[Data Cleaning]
-	B --> C[Feature Engineering]
-	C --> D[Model Training]
-	D --> E[Evaluation]
-	E --> F[Deployment]
-	F --> G[Monitoring & Iteration]
-```
 
 ## 👩‍💻 About Me
 
