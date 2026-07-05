@@ -9,12 +9,9 @@ Passionate about Machine Learning, Data Engineering, Cloud Computing, and Open S
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3500&pause=1000&color=00F5FF&center=true&vCenter=true&random=false&width=900&lines=AI+Engineer;Machine+Learning+Researcher;Deep+Learning+Developer;Computer+Vision+Engineer;Cloud+%7C+MLOps+%7C+NLP" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3500&pause=1000&center=true&vCenter=true&random=false&width=900&lines=AI+Engineer;Machine+Learning+Researcher;Deep+Learning+Developer;Computer+Vision+Engineer;Cloud+%7C+MLOps+%7C+NLP" />
 </p>
 
-<p align="center">
-<img src="assets/banner.png" width="100%">
-</p>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=PENUMARTHIHIMAVARSHINI&label=Profile+Views&color=0e75b6&style=for-the-badge">
@@ -48,6 +45,9 @@ Passionate about Machine Learning, Data Engineering, Cloud Computing, and Open S
 
 ## 🚀 Currently Working On
 
+<img align="right" alt="Coding" width="270"
+src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+
 - 📜 Historical Script Recognition using Deep Learning
 - 🧠 Dementia Detection from Speech
 - 📊 AI-powered Job Recommendation Platform
@@ -63,9 +63,6 @@ Passionate about Machine Learning, Data Engineering, Cloud Computing, and Open S
 - 📜 Computer Vision
 - 📚 Machine Learning
 - Generative AI
-
-<img align="right" alt="Coding" width="370"
-src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
 ## 🛠️ Tech Stack
 
@@ -93,28 +90,3 @@ Apache Spark • Apache Kafka • Hadoop • Apache Airflow • Pandas
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb"/>
 </p>
 
-## 📊 GitHub Analytics
-
-<p align="center">
-<img height="170"
-src="https://github-readme-stats.vercel.app/api?username=PENUMARTHIHIMAVARSHINI&show_icons=true&theme=tokyonight"/>
-<img height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=PENUMARTHIHIMAVARSHINI&layout=compact&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img
-src="https://github-readme-streak-stats.herokuapp.com/?user=PENUMARTHIHIMAVARSHINI&theme=tokyonight">
-</p>
-
-<p align="center">
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=PENUMARTHIHIMAVARSHINI&theme=tokyo-night">
-</p>
-
-<p align="center">
-<img
-src="https://github-profile-trophy.vercel.app/?username=PENUMARTHIHIMAVARSHINI&theme=algolia&row=2&column=4">
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=footer"/>
