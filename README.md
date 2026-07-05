@@ -9,8 +9,8 @@ Passionate about Machine Learning, Data Engineering, Cloud Computing, and Open S
 </p>
 
 <p align="center">
-<a href="YOUR_LINKEDIN_LINK">LinkedIn</a> •
-<a href="mailto:YOUR_EMAIL">Email</a> •
+<a href="https://www.linkedin.com/in/penumarthi-hima-varshini-511b4a31a/">LinkedIn</a> •
+<a href="mailto:himapenumarthi@gmail.com">Email</a> •
 <a href="YOUR_PORTFOLIO_LINK">Portfolio</a>
 </p>
 
